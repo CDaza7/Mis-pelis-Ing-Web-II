@@ -55,4 +55,4 @@ const MediaSchema = Schema({
     }
 })
 
-module.exports = model('Genero', GeneroSchema)
+module.exports = model('Media', MediaSchema)

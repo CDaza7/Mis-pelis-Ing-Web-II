@@ -1,5 +1,5 @@
  const Director = require('../models/director')
- const { require, response} = require('express')
+ const { request, response} = require('express')
 
 //Crear un director
 

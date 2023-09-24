@@ -27,4 +27,4 @@ const ProductoraSchema = Schema({
     }
 })
 
-module.exports = model('Genero', GeneroSchema)
+module.exports = model('Productora', ProductoraSchema)
