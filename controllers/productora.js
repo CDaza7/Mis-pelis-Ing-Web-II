@@ -16,7 +16,7 @@ const createProductora = async (req = request, res = response) => {
         
         const datos = {
             nombre,
-            slogan, 
+            slogan,
             descripcion
         }
     
